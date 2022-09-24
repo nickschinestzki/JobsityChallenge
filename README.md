@@ -18,3 +18,6 @@ This project is a mobile app that displays a list of TV Shows, showing basic inf
  2. Navigate to the folder which the project was cloned and run <code>npm install</code> or <code>yarn install</code>
  3. To run on <b>iOS</b>: <code>cd ios && pod install</code> then <code>cd .. && yarn react-native run-ios</code>
  4. To run on <b>Android</b>: <code>yarn react-native run-android</code>
+ 
+ ## How to install APK in Android device
+ The APK is located at the <a href="https://github.com/nickschinestzki/JobsityChallenge/tree/master/dist">dist</a> folder.
